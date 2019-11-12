@@ -1460,6 +1460,13 @@ let cards = [
 	author: "Alara Joel",
 	githubLink: "https://github.com/stealthman22"
 }
+  {
+      artName: "ZTM stars",
+      pageLink: "./Art/Atest/index.html",
+      imageLink: "./Art/Atest/ztm.gif",
+      author: "Farkhod",
+      githubLink: "https://github.com/yfarhod"
+}
 ];
 
 // +--------------------------------------------------------------------------------+
